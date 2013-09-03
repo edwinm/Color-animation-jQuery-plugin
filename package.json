@@ -1,0 +1,10 @@
+{
+  "name": "jquery-color-animation",
+  "version": "1.5.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-closure-compiler": "0.0.21",
+    "grunt-zopfli": "~0.3.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
