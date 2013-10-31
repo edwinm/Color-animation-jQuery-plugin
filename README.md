@@ -12,4 +12,4 @@ License: MIT or GPL
 
 To get the jQuery plugins:
 
-`git clone https://github.com/edwinm/jQuery-plugins.git`
+`git clone https://github.com/edwinm/Color-animation-jQuery-plugin.git`
