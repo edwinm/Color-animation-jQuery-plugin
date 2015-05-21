@@ -1,6 +1,19 @@
 {
   "name": "jquery-color-animation",
   "version": "1.5.1",
+  "description": "Let foreground, background and border colors fade to another color.",
+  "keywords": ["jquery-plugin", "ecosystem:jquery", "animation", "color", "colour", "effect"],
+  "homepage": "http://www.bitstorm.org/jquery/color-animation/",
+  "bugs": "https://github.com/edwinm/Color-animation-jQuery-plugin/issues",
+  "license": "MIT",
+  "author": "Edwin Martin <edwin@bitstorm.org>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/edwinm/Color-animation-jQuery-plugin.git"
+  },
+  "dependencies": {
+    "jquery": ">=1.8"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-closure-compiler": "0.0.21",
