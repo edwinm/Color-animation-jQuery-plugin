@@ -1,6 +1,7 @@
 {
   "name": "jquery-color-animation",
   "version": "1.5.1",
+  "jsdelivr": "jquery.animate-colors-min.js",
   "description": "Let foreground, background and border colors fade to another color.",
   "keywords": ["jquery-plugin", "ecosystem:jquery", "animation", "color", "colour", "effect"],
   "homepage": "http://www.bitstorm.org/jquery/color-animation/",
